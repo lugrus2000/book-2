@@ -1,0 +1,17 @@
+{
+  "gitbook": "3.2.3",
+  "root": "./content",
+  "plugins": ["collapsible-menu","edit-link","ga","anchors","-mathjax","github-issue-feedback"],
+  "pluginsConfig": {
+        "edit-link": {
+          "base": "https://github.com/wpveda/book/edit/master/content",
+          "label": "Edit This Page"
+        },
+        "github-issue-feedback": {
+          "repo": "wpveda/book"
+        },
+        "ga": {
+          "token": "UA-59804046-1"
+        }
+  }
+}
